@@ -1,5 +1,5 @@
 # Citizair
 
-# run the web
+## run the web
 
 yarn dev
